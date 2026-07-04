@@ -2,7 +2,7 @@
 
 This journal tracks real progress, experiments, failures, and iterations.
 
-## Stage 1: Energy Harvesting Schematic Completed! ⚡
+## Stage 1 (04/07/2026): Energy Harvesting Schematic Completed! ⚡
 
 <img width="661" height="411" alt="image" src="https://github.com/user-attachments/assets/78a0a754-98ef-4948-8b3c-83b0481d0e98" />
 
@@ -19,3 +19,4 @@ While running the Electrical Rules Check (ERC), I hit a classic KiCad warning: `
 
 ### Next Steps: PCB Layout
 Footprints are locked! I chose **0805 SMD** sizes for the passive components (resistors/capacitors) to balance high-frequency performance with easier hand-soldering. For the MFC cell connections, I'm using **Screw Terminals** for maximum stability. Time to open the PCB editor and start routing the switching traces!
+**Time spent this stage: 2 hours**
