@@ -1,21 +1,44 @@
-MIT License
+**Copyright (c) 2026 Γρηγόριος Ιωσηφίδης. All Rights Reserved.**
 
-Copyright (c) 2026 travletothefurureprogramming
+This repository and all of its contents, including but not limited to source code, hardware designs, schematics, PCB layouts, CAD models, documentation, images, and other materials (the "Work"), are the exclusive intellectual property of the copyright holder.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 1. Ownership
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+All rights, title, and interest in the Work remain solely with the copyright holder. Nothing in this License transfers ownership of any intellectual property.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 2. Permitted Use
+
+You may:
+
+* View and study the contents of this repository for personal, educational, or research purposes.
+* Fork the repository on GitHub only as permitted by GitHub's platform functionality, provided this License remains intact.
+
+## 3. Restrictions
+
+Without prior written permission from the copyright holder, you may **not**:
+
+* Use the Work for any commercial purpose.
+* Copy, redistribute, or publish the Work outside of GitHub.
+* Modify, adapt, translate, or create derivative works based on the Work.
+* Sell, sublicense, rent, or otherwise exploit any part of the Work.
+* Manufacture, produce, or commercialize any hardware or product based on the Work.
+* Use any part of the Work in commercial products, services, or research intended for commercial benefit.
+* Remove or alter any copyright or ownership notices.
+
+## 4. Patent Rights
+
+No patent rights or patent licenses are granted under this License, whether express or implied.
+
+If any inventions, methods, systems, or technologies described in this repository are protected by existing or future patent applications or patents, no rights to practice those inventions are granted by this License.
+
+## 5. No Warranty
+
+The Work is provided "AS IS", without warranty of any kind, express or implied. The copyright holder shall not be liable for any damages arising from the use of the Work.
+
+## 6. Contact
+
+Requests for commercial licensing, collaboration, or other permissions must be made directly to the copyright holder.
+
+---
+
+**Copyright © 2026 Γρηγόριος Ιωσηφίδης. All Rights Reserved.**
