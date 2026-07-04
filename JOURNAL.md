@@ -4,6 +4,8 @@ This journal tracks real progress, experiments, failures, and iterations.
 
 ## Stage 1: Energy Harvesting Schematic Completed! ⚡
 
+<img width="661" height="411" alt="image" src="https://github.com/user-attachments/assets/78a0a754-98ef-4948-8b3c-83b0481d0e98" />
+
 ### The Challenge
 Harvesting energy from biological microbial fuel cells (MFCs) is extremely challenging because the output voltage is very low and unstable. I needed a robust power management circuit to step up this raw energy right at Stage 1 before storing or using it.
 
